@@ -1,0 +1,15 @@
+{
+    "iot_user": [
+        {
+            "id": 10000000,
+            "user_name": "用户001",
+            "account": "15986901234",
+            "password": "15986901234",
+            "status": 1,
+            "account_type": 2,
+            "is_del": 0,
+            "update_time": "2024-10-11T02:14:16.080Z",
+            "create_time": "2024-10-11T02:14:16.080Z"
+        }
+    ]
+}
